@@ -18,6 +18,9 @@
 ### 구현 - 소스코드
 
 <hr />
+
+* 회원관리 코드
+
     - [시작 메인 화면](https://github.com/1117j/javamurger/blob/master/javameger_main.html)
     
     - [메뉴 선택 화면](https://github.com/1117j/javamurger/blob/master/Javamurger_kiosk_Main.html)
