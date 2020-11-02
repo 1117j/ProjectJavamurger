@@ -19,7 +19,7 @@
 
 <hr />
 
-* 회원관리 코드
+* 화면 구성
 
     - [시작 메인 화면](https://github.com/1117j/javamurger/blob/master/javameger_main.html)
     
